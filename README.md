@@ -30,3 +30,25 @@ I am a full stack developer who works with Javascript and its associated framewo
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&theme=radical" />
 </a>
+
+<h2> Socials and Contact <h2>
+
+  <a href='https://www.linkedin.com/in/alyson-talante-b2108122a/'>
+    
+  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
+    
+  </a>
+  
+   <a href='mailto:alysontalante@gmail.com'>
+    
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
+    
+  </a>
+  
+  
+    <a href='https://twitter.com/alytalante'>
+    
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
+    
+  </a>
+  
