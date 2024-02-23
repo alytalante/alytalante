@@ -22,15 +22,6 @@ I am a full stack developer who works with Javascript and its associated framewo
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 
-<h2> Github Stats </h2>
-    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alytalante&count_private=true&theme=radical&hide=contribs" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alytalante&layout=compact&count_private=true&theme=radical" />
-</a>
-
 <h2> Socials and Contact <h2>
 
   <a href='https://www.linkedin.com/in/alyson-talante-b2108122a/'>
